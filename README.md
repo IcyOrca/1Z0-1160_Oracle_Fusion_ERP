@@ -5,7 +5,6 @@ This repository is a comprehensive study resource designed to help you prepare f
 
     ✅ Anki flashcards with key ERP concepts
     ✅ Definitions for financial, procurement, and cloud configuration topics
-    ✅ Study resources and links for a deeper understanding
 
 <h3>📚 Contents</h3>
 
