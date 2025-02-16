@@ -9,9 +9,8 @@ This repository is a comprehensive study resource designed to help you prepare f
 
 <h3>📚 Contents</h3>
 
-    anki-deck.txt → Anki flashcards for easy import
+    Oracle_Fusion_ERP_Deck.apkg → Anki flashcards for easy import
     README.md → Overview of the study guide
-    resources.md → Additional links & study materials (coming soon)
 
 <h3>🚀 How to Use This Repo</h3>
 Clone the repository
