@@ -1,7 +1,7 @@
 <h1>📌 Oracle Fusion ERP (1Z0-1160) Certification Study Guide</h1>
 
 <h3>📖 About This Repository</h3>
-This repository is a comprehensive study resource designed to help you prepare for the Oracle Fusion ERP Foundations Associate certification exam (1Z0-1160-1). It includes:
+This repository is a comprehensive study resource designed to help you prepare for the Oracle Fusion ERP Foundations Associate certification exam (1Z0-1160). It includes:
 
     ✅ Anki flashcards with key ERP concepts
     ✅ Definitions for financial, procurement, and cloud configuration topics
