@@ -14,7 +14,7 @@ This repository is a comprehensive study resource designed to help you prepare f
 <h3>🚀 How to Use This Repo</h3>
 Clone the repository
 
-    git clone https://github.com/IcyOrca/1z0-1160_oracle_fusion_erp.git
+    git clone https://github.com/IcyOrca/1z0-1160_Oracle_Fusion_ERP.git
     cd oracle-fusion-erp-1z0-1160
 
 Import the anki-deck.txt into Anki to start practicing.
